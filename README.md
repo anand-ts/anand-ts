@@ -1,6 +1,8 @@
-## Hi there 👋
+## my personal website
 
-[anand-ts.vercel.app](https://anand-ts.vercel.app)
+[anand-ts.me](https://anand-ts.me)
+
+thanks for visiting :)
 
 <!--
 **anand-ts/anand-ts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
